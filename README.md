@@ -1,2 +1,2 @@
 # my-code
-Author : Sushil Chaudhay
+Author : Sushil Chaudhary
